@@ -1,5 +1,5 @@
 # pdfNEETbot
-![Logo]([img/"The Crest Logo"](https://github.com/Anandharajan/pdfNEETbot/blob/main/img/The%20Crest%20Logo.jpg))
+![Logo]([img/"The%20Crest%20Logo"]
 
 
 **Try the app here:** [pdfNEETbot on Streamlit Cloud](https://apppy-xfmcjly1ifm.streamlit.app/)
