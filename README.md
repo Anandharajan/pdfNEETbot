@@ -1,5 +1,5 @@
 # pdfNEETbot
-![Logo](img/The Crest "Logo")
+![Logo](img/"The Crest Logo")
 
 
 **Try the app here:** [PDF Analyzer on Streamlit Cloud](https://mehmetba-pdf-analyze-streamlit-qa-app-5uufsy.streamlit.app/)
