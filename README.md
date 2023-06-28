@@ -2,7 +2,7 @@
 ![Logo](img/"The Crest Logo")
 
 
-**Try the app here:** [PDF Analyzer on Streamlit Cloud](https://apppy-xfmcjly1ifm.streamlit.app/)
+**Try the app here:** [pdfNEETbot on Streamlit Cloud](https://apppy-xfmcjly1ifm.streamlit.app/)
 
 # pdfNEETbot
 
